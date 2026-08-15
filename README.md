@@ -6,15 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 5 |
+| 3 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
-- [sortings](#sortings) (1)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (2)
+- [sortings](#sortings) (2)
 - [strings](#strings) (1)
 - [two pointers](#two-pointers) (1)
 
@@ -24,18 +24,21 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
 | 2253C | [Sum of Distinct Values in a Matrix](https://codeforces.com/contest/2253/problem/C) | 1500 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2253/C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix/solution.java) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
 | 2253C | [Sum of Distinct Values in a Matrix](https://codeforces.com/contest/2253/problem/C) | 1500 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2253/C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix/solution.java) |
 
 ### strings

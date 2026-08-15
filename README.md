@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (2)
+- [data structures](#data-structures) (1)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (3)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
@@ -20,11 +21,18 @@
 
 ---
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
 | 2253C | [Sum of Distinct Values in a Matrix](https://codeforces.com/contest/2253/problem/C) | 1500 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2253/C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix/solution.java) |
 
 ### implementation

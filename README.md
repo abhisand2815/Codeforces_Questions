@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 61 | 16 |
+| 62 | 17 |
 
 ---
 
@@ -15,12 +15,13 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (6)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (40)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (41)
 - [interactive](#interactive) (1)
 - [math](#math) (15)
 - [number theory](#number-theory) (2)
@@ -65,6 +66,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
 
 ### divide and conquer
@@ -100,10 +102,17 @@
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
 | 2253C | [Sum of Distinct Values in a Matrix](https://codeforces.com/contest/2253/problem/C) | 1500 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2253/C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix/solution.java) |
 
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/41/A%20-%20Translation/solution.java) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.java) |

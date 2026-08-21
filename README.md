@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 67 | 17 |
+| 68 | 17 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (5)
-- [strings](#strings) (13)
+- [strings](#strings) (14)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -222,6 +222,7 @@
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/96/A%20-%20Football/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
+| 208A | [Dubstep](https://codeforces.com/contest/208/problem/A) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/208/A%20-%20Dubstep/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |

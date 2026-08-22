@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 73 | 17 |
+| 74 | 18 |
 
 ---
 
@@ -18,13 +18,14 @@
 - [data structures](#data-structures) (2)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (2)
+- [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (11)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (48)
 - [interactive](#interactive) (1)
-- [math](#math) (18)
-- [number theory](#number-theory) (2)
+- [math](#math) (19)
+- [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (6)
 - [strings](#strings) (15)
@@ -85,6 +86,12 @@
 |---|---------|------------|----------|
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 
 ### graph matchings
 
@@ -192,6 +199,7 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
@@ -201,6 +209,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.java) |
 
 ### shortest paths

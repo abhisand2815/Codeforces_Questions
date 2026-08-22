@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 77 | 18 |
+| 78 | 18 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (12)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (49)
+- [implementation](#implementation) (50)
 - [interactive](#interactive) (1)
 - [math](#math) (19)
 - [number theory](#number-theory) (4)
@@ -155,6 +155,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/344/A%20-%20Magnets/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
+| 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/427/A%20-%20Police%20Recruits/solution.java) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |

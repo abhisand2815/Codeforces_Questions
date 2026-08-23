@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 79 | 18 |
+| 80 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
+- [binary search](#binary-search) (1)
 - [brute force](#brute-force) (12)
 - [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (2)
@@ -22,10 +23,10 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (12)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (51)
+- [implementation](#implementation) (52)
 - [interactive](#interactive) (1)
-- [math](#math) (19)
-- [number theory](#number-theory) (4)
+- [math](#math) (20)
+- [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (7)
 - [strings](#strings) (17)
@@ -39,6 +40,12 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/158/B%20-%20Taxi/solution.java) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 
 ### brute force
 
@@ -146,6 +153,7 @@
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/200/B%20-%20Drinks/solution.java) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.java) |
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
@@ -195,6 +203,7 @@
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/200/B%20-%20Drinks/solution.java) |
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/318/A%20-%20Even%20Odds/solution.java) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/479/A%20-%20Expression/solution.java) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
@@ -214,6 +223,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.java) |

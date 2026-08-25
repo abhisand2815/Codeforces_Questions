@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 85 | 19 |
+| 86 | 19 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (14)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (56)
+- [implementation](#implementation) (57)
 - [interactive](#interactive) (1)
 - [math](#math) (23)
 - [number theory](#number-theory) (5)
@@ -190,6 +190,7 @@
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
+| 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1669/A%20-%20Division%3F/solution.java) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1742/A%20-%20Sum/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |

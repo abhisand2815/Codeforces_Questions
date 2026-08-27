@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 93 | 19 |
+| 94 | 19 |
 
 ---
 
@@ -23,9 +23,9 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (15)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (61)
+- [implementation](#implementation) (62)
 - [interactive](#interactive) (1)
-- [math](#math) (25)
+- [math](#math) (26)
 - [number theory](#number-theory) (6)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (9)
@@ -184,6 +184,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
+| 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.java) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/705/A%20-%20Hulk/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
@@ -228,6 +229,7 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |

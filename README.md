@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 103 | 19 |
+| 104 | 20 |
 
 ---
 
@@ -14,6 +14,7 @@
 
 - [*special](#special) (2)
 - [binary search](#binary-search) (4)
+- [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (16)
 - [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (2)
@@ -23,7 +24,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (19)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (66)
+- [implementation](#implementation) (67)
 - [interactive](#interactive) (1)
 - [math](#math) (28)
 - [number theory](#number-theory) (6)
@@ -49,6 +50,12 @@
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.java) |
 
 ### brute force
 
@@ -213,6 +220,7 @@
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.java) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.java) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1829/B%20-%20Blank%20Space/solution.java) |
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |

@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 106 | 20 |
+| 107 | 21 |
 
 ---
 
@@ -20,11 +20,12 @@
 - [data structures](#data-structures) (2)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (4)
+- [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (20)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (68)
+- [implementation](#implementation) (69)
 - [interactive](#interactive) (1)
 - [math](#math) (29)
 - [number theory](#number-theory) (6)
@@ -111,6 +112,12 @@
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 
+### expression parsing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/32/B%20-%20Borze/solution.java) |
+
 ### games
 
 | # | Problem | Difficulty | Solution |
@@ -159,6 +166,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
+| 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/32/B%20-%20Borze/solution.java) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/41/A%20-%20Translation/solution.java) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.java) |

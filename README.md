@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 115 | 22 |
+| 116 | 22 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (75)
 - [interactive](#interactive) (1)
-- [math](#math) (31)
+- [math](#math) (32)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (6)
 - [shortest paths](#shortest-paths) (1)
@@ -277,6 +277,7 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
+| 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.java) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.java) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.java) |

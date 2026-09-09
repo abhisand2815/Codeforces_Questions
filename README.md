@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 126 | 22 |
+| 127 | 22 |
 
 ---
 
@@ -27,9 +27,9 @@
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (81)
 - [interactive](#interactive) (1)
-- [math](#math) (35)
+- [math](#math) (36)
 - [matrices](#matrices) (1)
-- [number theory](#number-theory) (6)
+- [number theory](#number-theory) (7)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (13)
 - [strings](#strings) (21)
@@ -280,6 +280,7 @@
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/200/B%20-%20Drinks/solution.java) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/318/A%20-%20Even%20Odds/solution.java) |
+| 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.java) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/479/A%20-%20Expression/solution.java) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
@@ -319,6 +320,7 @@
 |---|---------|------------|----------|
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/230/B%20-%20T-primes/solution.java) |
+| 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.java) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.java) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/abhisand2815/Codeforces_Questions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
